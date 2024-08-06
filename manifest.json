@@ -15,5 +15,11 @@
       ],
       "js": ["dist/index.js"]
     }
-  ]
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "block-note@astralchan.xyz"
+    }
+  }
 }
