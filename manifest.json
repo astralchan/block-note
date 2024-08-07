@@ -21,5 +21,10 @@
     "gecko": {
       "id": "block-note@astralchan.xyz"
     }
+  },
+
+  "icons": {
+    "48": "assets/icon-48.png",
+    "96": "assets/icon-96.png"
   }
 }

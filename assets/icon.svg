@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="146.96121mm"
+   height="146.96121mm"
+   viewBox="0 0 146.96121 146.96121"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title4">Block Note Icon</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="0.87840301"
+     inkscape:cx="342.0981"
+     inkscape:cy="628.98237"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,18.955866,0,1 @ F,0,0,1,0,10.86235,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,52.607857,0,1 @ F,0,0,1,0,8.306503,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.800034,-79.65724)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:5.29201;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="86.57933"
+       height="86.57933"
+       x="63.929882"
+       y="101.5572" />
+    <path
+       id="rect5"
+       style="fill:#ffffff;stroke-width:5.29201"
+       d="M 32.800034,79.657242 H 160.80538 a 18.955866,18.955866 45 0 1 18.95587,18.955866 V 215.7561 A 10.86235,10.86235 135 0 1 168.8989,226.61845 H 32.800034 Z"
+       inkscape:path-effect="#path-effect6"
+       inkscape:original-d="M 32.800034,79.657242 H 179.76125 V 226.61845 H 32.800034 Z" />
+    <path
+       id="rect5-0"
+       style="fill:#000000;stroke-width:5.29201"
+       d="m 32.800034,79.657242 h 94.353356 a 52.607857,52.607857 45 0 1 52.60786,52.607858 v 86.04685 a 8.306503,8.306503 135 0 1 -8.3065,8.3065 H 32.800034 Z"
+       inkscape:path-effect="#path-effect5"
+       inkscape:original-d="M 32.800034,79.657242 H 179.76125 V 226.61845 H 32.800034 Z" />
+    <path
+       id="rect5-0-7"
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:1.41543"
+       d="M 32.800034,79.657242 H 43.313345 V 226.61845 H 32.800034 Z"
+       sodipodi:nodetypes="ccccc" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff1414;stroke-width:7.08777;stroke-dasharray:none;stroke-opacity:1"
+       id="path6"
+       cx="109.48965"
+       cy="154.06866"
+       r="52.98592" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff1414;stroke-width:7.9375;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.519308,111.44752 61.747942,84.33865"
+       id="path7"
+       inkscape:export-filename="icon-96.png"
+       inkscape:export-xdpi="16.592133"
+       inkscape:export-ydpi="16.592133" />
+  </g>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Block Note Icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
