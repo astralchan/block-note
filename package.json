@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "tsc --build",
-    "dist": "zip -r -FS block-note.zip . -i manifest.json 'dist*' 'assets*'"
+    "dist": "zip -r -FS block-note.zip . -i manifest.json 'dist*' 'assets*' 'pages*'"
   },
   "devDependencies": {
     "@types/node": "^22.1.0",
